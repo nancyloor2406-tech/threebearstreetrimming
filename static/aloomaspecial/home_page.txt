@@ -1,0 +1,49 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 20px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:large;">1. What is the average cost of tree trimming in the United States?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The average cost of tree trimming typically ranges from $200 to $800 depending on the size and location of the tree. Factors like accessibility and the complexity of the tree pruning service will also influence the final tree trimming cost.</p>
+                <h4 class="template4 palooma" style="font-size:large;">2. When is the best time for tree trimming and pruning?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Most tree care specialists recommend pruning during the dormant season (late winter). However, specific services like apple tree winter pruning are timed differently than emergency tree trimming and removal for storm damage.</p>
+                <h4 class="template4 palooma" style="font-size:large;">3. Is there a difference between tree trimming and pruning?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, tree trimming usually refers to thinning out overgrown branches for aesthetics and light, while tree pruning is focused on the health and structural integrity of the plant, such as removing diseased limbs.</p>
+                <h4 class="template4 palooma" style="font-size:large;">4. How often should palm tree trimming be done?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">For most species in the United States, palm tree trimming should be performed once or twice a year to remove dead fronds and prevent pests from nesting in the crown.</p>
+                <h4 class="template4 palooma" style="font-size:large;">5. How much does tree removal cost near me?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The tree removal cost varies significantly based on height and proximity to power lines. Generally, homeowners can expect to pay between $400 and $1,500 for a professional tree removal service.</p>
+                <h4 class="template4 palooma" style="font-size:large;">6. Does tree trimming include stump removal?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Standard tree trimming does not include stump removal, but our tree trimming and removal services offer tree stump removal services as an add-on for a complete landscape clearing.</p>
+                <div class="callalooma mx-auto"><a href="tel:833-435-4424">Click Here To Call Us (833) 435-4424</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+    
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
